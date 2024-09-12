@@ -1,0 +1,17 @@
+gnome-shell-extension-unblank (30) lernstick-13; urgency=medium
+
+  * prepare for trixie
+
+ -- Thore Sommer <mail@thson.de>  Fri, 02 Aug 2024 10:00:00 +0200
+
+gnome-shell-extension-unblank (29) lernstick-12; urgency=medium
+
+  * update for Debian 12
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 15 Aug 2023 20:37:44 +0200
+
+gnome-shell-extension-unblank (20) lernstick-11; urgency=medium
+
+  * Initial release.
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 03 Sep 2021 14:00:54 +0200

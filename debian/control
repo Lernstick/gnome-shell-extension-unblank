@@ -1,0 +1,14 @@
+Source: gnome-shell-extension-unblank
+Section: gnome
+Priority: extra
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://extensions.gnome.org/extension/1414/unblank/
+
+Package: gnome-shell-extension-unblank
+Architecture: all
+Depends: ${misc:Depends}, gnome-shell (>= 3.18)
+Recommends: gnome-tweaks
+Description: Unblank screen when screen saver becomes active.
+ Unblank screen when screen saver becomes active.
